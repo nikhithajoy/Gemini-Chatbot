@@ -31,7 +31,8 @@ const API_KEY = "YOUR_API_KEY";
 ```
 
 ## Screenshots
-(Add relevant screenshots of the interface here)
+![image](https://github.com/user-attachments/assets/e7c8203f-1d1d-43ef-882c-0b00872c301b)
+
 
 ## Future Enhancements
 - Add voice interaction
