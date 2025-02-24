@@ -31,11 +31,6 @@ To use the Gemini API, ensure you have an API key. Replace `YOUR_API_KEY` in the
 const API_KEY = "YOUR_API_KEY";
 ```
 
-## Future Enhancements
-- Add voice interaction
-- Improve UI/UX with animations
-- Store chat history
-
 ## License
 This project is open-source under the MIT License.
 
