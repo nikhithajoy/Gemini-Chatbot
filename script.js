@@ -192,4 +192,4 @@ document.body.classList.toggle("light-theme", isLightTheme);
 themeToggle.textContent = isLightTheme ? "dark_mode" : "light_mode";
 
 promptForm.addEventListener("submit", handleFormSubmit);
-promptForm.querySelector("#add-file-btn").addEventListener("click", () => fileInput.click());
+promptForm.querySelector("#add-file-btn").addEventListener("click", () => fileInput.click())
